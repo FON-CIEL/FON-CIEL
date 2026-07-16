@@ -5,7 +5,7 @@ public:
     string school = "EPSI Toulouse";
     string previousDegree = "BTS CIEL";
     string passion = "Cybersecurity & Software Development";
-
+    
     void objectives() {
         cout << "Build. Learn. Secure. Repeat." << endl;
     }
